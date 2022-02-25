@@ -1,2 +1,3 @@
-# Credit-Card-Approval-Prediction
+# Credit-Card-Approval
+Kaggle
 credit card EDA visualization binary classification
